@@ -1,9 +1,8 @@
 def main():
     #escribe tu código abajo de esta línea
-   print ("Hola")
-   print ("como estas?")
-
-
+    print ("hola")
+    print ("hola")
+    print ("hola")
 
 if __name__ == '__main__':
     main()
